@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514130464 source:c:\users\ozant\documents\github\semesterproject\semesterproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
